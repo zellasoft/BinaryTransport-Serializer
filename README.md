@@ -1,0 +1,1 @@
+Experimental stage serializer for compact, binary transport of data. When quirks stabilize, intended to be used for local network device discovery and information exchange as part of the PeerPresenceProtocol project.
